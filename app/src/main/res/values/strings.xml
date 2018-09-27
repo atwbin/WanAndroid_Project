@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WanAndroid_Project</string>
+
+    <string name="collect_fail">collect_fail</string>
+    <string name="cancel_collect_fail">cancel_collect_fail</string>
+</resources>
